@@ -123,17 +123,17 @@ body {
 }
 
 .open {
-	width: 8px;
+	width: 9px;
 	height: 8px;
-	background: green;
-	box-shadow: 0px 0px 3px 1px #000;
+	background: url(../images/normal/unlock.svg);
+	background-repeat: no-repeat;
 }
 
 .closed {
 	width: 8px;
 	height: 8px;
-	background: red;
-	box-shadow: 0px 0px 3px 1px #000;
+	background: url(../images/normal/lock.svg);
+	background-repeat: no-repeat;
 }
 
 /* ERIBU ITEMS */
