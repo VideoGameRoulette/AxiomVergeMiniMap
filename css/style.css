@@ -122,6 +122,20 @@ body {
 	opacity: 0;
 }
 
+.openmasochist {
+	width: 9px;
+	height: 8px;
+	background: url(../images/normal/unlockmasochist.svg);
+	background-repeat: no-repeat;
+}
+
+.openadvanced {
+	width: 9px;
+	height: 8px;
+	background: url(../images/normal/unlockadvanced.svg);
+	background-repeat: no-repeat;
+}
+
 .open {
 	width: 9px;
 	height: 8px;
