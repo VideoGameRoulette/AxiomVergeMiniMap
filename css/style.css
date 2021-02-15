@@ -636,6 +636,13 @@ body {
 	left: calc((20px * 23) + 8px);
 }
 
+/* SLUGS */
+#HealthNodeFragment15 {
+	position: absolute;
+	top: calc((20px * 3) + 8px);
+	left: calc((20px * 28) + 8px);
+}
+
 /* UKKIN-NA ITEMS */
 #BlackCoat {
 	position: absolute;
@@ -902,23 +909,4 @@ body {
 	position: absolute;
 	top: calc((20px * 7) + 8px);
 	left: calc((20px * 3) + 8px);
-}
-
-/* SLUGS */
-.eribu {
-	position: absolute;
-	top: calc((20px * 6) + 8px);
-	left: calc((20px * 1) + 8px);
-}
-
-.indi {
-	position: absolute;
-	top: calc((20px * 3) + 8px);
-	left: calc((20px * 28) + 8px);
-}
-
-.ukkinna {
-	position: absolute;
-	top: calc((20px * 15) + 8px);
-	left: calc((20px * 7) + 8px);
 }
