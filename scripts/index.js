@@ -185,6 +185,11 @@ function CheckMasochist(data, itemLocation)
   return BaseCheck(data, itemLocation, 'RequiredPowersMasochist');
 }
 
+function CheckVision(data, itemLocation)
+{
+  return BaseCheck(data, itemLocation, 'RequiredPowersHallucination');
+}
+
 function OpenDefault(itemLocation, easy, normal)
 {
 	if (easy) {
